@@ -1,5 +1,5 @@
 aiogram==2.25.1
-aiohttp==3.8.5
+aiohttp==3.9.5
 openai==0.28.0
 reportlab==4.1.0
 openpyxl==3.1.5
